@@ -40,8 +40,8 @@ java Play.java
 
 ### Screen Shot
 
-![end-up](/Users/immmjack/Desktop/Minesweeper/end-up.png)
+![end-up](end-up.png)
 
 
 
-![congrats](/Users/immmjack/Desktop/Minesweeper/congrats.png)
+![congrats](congrats.png)
