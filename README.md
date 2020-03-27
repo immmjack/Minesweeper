@@ -33,7 +33,7 @@ javac *.java
 Then you can use the following java command to run the game:
 
 ```java
-java Play.java
+java Play
 ```
 
 
